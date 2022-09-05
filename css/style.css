@@ -8,6 +8,7 @@ html {
 }
 
 body {
+  transform: translate3d(0, 0, 0);
   background: #151515 url('../images/bg_1.png') no-repeat fixed left bottom;
   background-size: cover;
   color: #fff;
@@ -521,7 +522,7 @@ body {
  * challenge
  *
  * 31行目からの.heading::before, .heading::afterの
- * スタイルをコメントアウトしてから適用してください。
+ * スタイルをコメントアウトしてから適用
  * -------------------------------- */
 /*
 .heading::before,
