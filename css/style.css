@@ -414,7 +414,15 @@ body {
     background-repeat: no-repeat;
     background-position: 0% 0%;
     background-size: auto auto;
-    background-attachment: scroll;
+    background-attachment: fixed;
+  }
+
+  .service {
+    background: #151515 url('../images/bg_2.png');
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: auto auto;
+    background-attachment: fixed;
   }
 }
 
